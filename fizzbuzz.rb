@@ -1,0 +1,3 @@
+def Fizzbuzz
+
+end
